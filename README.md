@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prateek Srivastav</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 
-- 🔭 I’m currently working on **Loyalty Rewards Points domain for Card Processing Systems**
+- 🔭 I’m currently working on **Loyalty Rewards Points Domain For Card Processing Systems**
 
 - 🌱 I’m currently learning **Java Full Stack**
 
